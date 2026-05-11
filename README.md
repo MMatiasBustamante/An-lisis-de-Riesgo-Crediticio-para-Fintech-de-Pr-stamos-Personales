@@ -1,1 +1,1 @@
-# An-lisis-de-Riesgo-Crediticio-para-Fintech-de-Pr-stamos-Personales
+# An-lisis-de-Riesgo-Crediticio-para-Fintech-de-Prestamos-Personales
