@@ -108,10 +108,16 @@ Análisis de las variables más asociadas al impago por categoría y comparació
 ![Página 2](img/pagina2.png)
  
 ### Página 3 — Criterios de decisión
-Tabla de aprobación con semáforo de riesgo, gráfico de impacto y recomendación accionable. Responde: **¿a quién aprobar y bajo qué condiciones?**
+Tabla de aprobación con semáforo de riesgo y gráfico de impacto
  
 ![Página 3](img/pagina3.png)
  
+
+### Recomendación accionable. Responde: **¿a quién aprobar y bajo qué condiciones?
+Aplicando los criterios definidos, LendSmart debería rechazar el 50,4% de los solicitantes actuales y revisar un 15,4% adicional antes de aprobar. Solo el 34,2% de la cartera cumple condiciones de riesgo bajo.
+Las tres variables con mayor poder de discriminación son la cuota sobre ingreso, el tipo de vivienda y la calificación crediticia. Ningún solicitante con cuota superior al 20% del ingreso, vivienda en alquiler o calificación E, F o G debería aprobarse sin un análisis adicional.
+Implementar estos filtros reduciría la tasa de impago actual del 21,9% a niveles más cercanos al umbral saludable de la industria.
+
 ---
  
 ## ⚙️ Pipeline de datos
